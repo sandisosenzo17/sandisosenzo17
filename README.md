@@ -1,4 +1,4 @@
-# Hey, I'm \[Sandiso Yali]!
+# Hey, I'm Sandiso Yali
 
 I'm an aspiring **Backend Developer** with a strong foundation in **Applied Mathematics** and **Computer Science**. I’m deeply interested in how computers work, from low-level architecture to high-level backend systems.
 
