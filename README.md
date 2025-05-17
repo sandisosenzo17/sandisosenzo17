@@ -6,7 +6,7 @@ I'm an aspiring **Backend Developer** with a strong foundation in **Applied Math
 
 * Currently enrolled in a backend development bootcamp (Python, Django, REST APIs, SQL, Linux).
 
-* Teaching and simplifying complex programming and math
+* Teaching and simplifying complex programming and math concepts.
 
 ## Tech Stack
 
