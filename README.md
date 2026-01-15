@@ -4,17 +4,17 @@ I'm an aspiring **Backend Developer** with a strong foundation in **Applied Math
 
 ## What I'm Doing
 
-* Currently enrolled in a backend development bootcamp (Python, Django, REST APIs, SQL, Linux).
+* Building a day-to-day app that involves using the Windows Task Scheduler to invoke the app on certain events and take the specified actions.
 
 * Teaching and simplifying complex programming and math concepts.
 
 ## Tech Stack
 
-* **Languages:** Java, C, C++
+* **Languages:** Java, Python, C++
 
 * **Tools:** Git & GitHub, VS Code
 
-* **Learning:** Django REST Framework, MongoDB, advanced API development, Linux
+* **Learning:** Windows Task Scheduler, Google Drive APIs, Django REST Framework, API development, Linux
 
 ## Interests
 
