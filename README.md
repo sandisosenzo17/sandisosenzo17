@@ -4,8 +4,6 @@ I'm an aspiring **Backend Developer** with a strong foundation in **Applied Math
 
 ## What I'm Doing
 
-* Building a day-to-day app that involves using the Windows Task Scheduler to invoke the app on certain events and take the specified actions.
-
 * Teaching and simplifying complex programming and math concepts.
 
 ## Tech Stack
@@ -14,7 +12,7 @@ I'm an aspiring **Backend Developer** with a strong foundation in **Applied Math
 
 * **Tools:** Git & GitHub, VS Code
 
-* **Learning:** Windows Task Scheduler, Google Drive APIs, Django REST Framework, API development, Linux
+* **Learning:** Google Drive APIs, API development, Linux, kotlin
 
 ## Interests
 
